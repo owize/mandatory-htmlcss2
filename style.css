@@ -49,10 +49,10 @@ main{
   width: 150px;
   margin: 20px;
   flex-grow: 1;
-  transition: transform 1s;
+  transition: transform .5s;
 }
 
-.box:hover {
+.box:hover{
     transform: scale(1.05);
 }
 
@@ -67,7 +67,6 @@ footer{
   float: right;
   padding: 20px;
   background-color: #191923;
-
 }
 
 @media (max-width: 700px){
