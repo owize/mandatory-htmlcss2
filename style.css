@@ -42,7 +42,6 @@ main{
   background-color: #042A2B;
   display: flex;
   flex-wrap: wrap;
-
 }
 
 .box{
@@ -53,7 +52,7 @@ main{
 }
 
 .box:hover{
-    transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 img{
